@@ -1,0 +1,8 @@
+version: 2.0.4
+files:
+  - url: FluxSSH-Setup-2.0.4.exe
+    sha512: QFk4rEISxPGWLtgTTAmBvESVsgqiEz+EjymfC+28I4LGTimjLHCTMl5i3G1bherQF8cAaeOyNrXmerwQ+O+WWg==
+    size: 80688842
+path: FluxSSH-Setup-2.0.4.exe
+sha512: QFk4rEISxPGWLtgTTAmBvESVsgqiEz+EjymfC+28I4LGTimjLHCTMl5i3G1bherQF8cAaeOyNrXmerwQ+O+WWg==
+releaseDate: '2026-05-17T15:36:28.197Z'
