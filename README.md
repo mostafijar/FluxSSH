@@ -108,8 +108,18 @@ Download the latest release here:
 ## Windows
 Download the `.exe` installer from the releases page.
 
+# 🛠 Installation
+
+## Windows
+Download the `.exe` installer from the releases page.
+
 ## Linux
-Coming soon.
+Download one of these packages from Releases:
+
+- `.AppImage` → Portable version (recommended)
+- `.deb` → Ubuntu / Debian
+- `.rpm` → Fedora / CentOS / RHEL
+
 
 ## macOS
 Coming soon.
