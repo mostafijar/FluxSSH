@@ -108,11 +108,6 @@ Download the latest release here:
 ## Windows
 Download the `.exe` installer from the releases page.
 
-# 🛠 Installation
-
-## Windows
-Download the `.exe` installer from the releases page.
-
 ## Linux
 Download one of these packages from Releases:
 
